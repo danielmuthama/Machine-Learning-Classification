@@ -1,4 +1,4 @@
-# Machine Learning Scikit-learn
+# Machine Learning Classification
 
 Table of Contents
 
